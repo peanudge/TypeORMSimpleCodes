@@ -25,3 +25,7 @@
     "emitDecoratorMetadata": true /* Enables experimental support for emitting type metadata for decorators. */,
 }
 ```
+
+### TypeORM Test Environment
+
+- [tests-with-jest-and-typeorm](https://dev.to/caiulucas/tests-with-jest-and-typeorm-4j1l)
